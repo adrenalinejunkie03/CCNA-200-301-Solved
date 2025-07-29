@@ -1,6 +1,10 @@
-# CCNA-200-301-Solved
 
-This will be uploaded gradually as I complete all the lab demos on Packet tracer alongwith
-all the configurations...
 
-This has the flashcards, lab guides and notes 
+
+# Cisco-CCNA-200-301-The-Complete-Guide-to-Getting-Certified
+Cisco CCNA 200-301: The Complete Guide to Getting Certified, published by Packt
+
+
+This is going to be uploaded bit by bit with all the solutions in a packet tracer file!!!
+
+Enjoy ;) 
